@@ -27,7 +27,7 @@ I enjoy solving problems, building **interactive web projects**, and exploring h
 Here are some of my notable projects:
 
 1. **[Coffee Shop Management(Using Telegram Bot)](https://github.com/Astha0911/Coffee-Shop-Management.git)** –A Python-based Coffee Shop that manages menu items, customer orders, and sales using JSON files.
-2. **[Currency Converter](https://github.com/Astha0911/Currency-Converter.git)** – A simple and responsive currency converter using JavaScript.
+2. **[Library Management System](https://github.com/Astha0911/Library-Management-System.git)** – A full stack project built using Spring Boot and React.
 3. **[Todos-List](https://github.com/Astha0911/todos-list.git)** – A simple and responsive ToDo List application built with React.
 
 > You can check all my projects here: [GitHub Repositories](https://github.com/Astha0911?tab=repositories)
